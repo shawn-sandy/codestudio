@@ -5,22 +5,26 @@
 ## Extensions Included
 
 **GitLens — Git supercharged**
+
 Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 ___
 
 **ESLint**
+
 Integrates ESLint JavaScript into VS Code.
  https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 ___
 
 **Debugger for Chrome**
+
 Id: msjsdiag.debugger-for-chrome
 Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
  https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
  ___
 
 **Vetur**
+
 Vue tooling for VS Code
 https://marketplace.visualstudio.com/items?itemName=octref.vetur
 
@@ -159,19 +163,21 @@ VSCode syntax highlighting for today's JavaScript, ported from gandm's language-
 ---
 
 **Node.js Modules Intellisense**
-Id: leizongmin.node-module-intellisense
+
 Autocompletes Node.js modules in import statements
  https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense
 
 ---
 
 **Vue VSCode Snippets**
+
 Description: Snippets that will supercharge your Vue workflow
 https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
 
 ---
 
 **Night Owl**
+
 Description: A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
 
