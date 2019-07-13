@@ -1,65 +1,69 @@
-
 {
-    "name": "codestudio",
-    "displayName": "CodeStudio",
-    "publisher": "shawnsandy",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/shawn-sandy/codestudio.git"
-    },
-    "keywords": [
-      "VSCODE",
-      "Extension pack"
-    ],
-    "author": "shawnsandy",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/shawn-sandy/codestudio/issues"
-    },
-    "homepage": "https://github.com/shawn-sandy/codestudio#readme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.36.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "abusaidm.html-snippets", 
-        "alefragnani.Bookmarks", 
-        "auchenberg.vscode-browser-preview", 
-        "christian-kohler.npm-intellisense", 
-        "CoenraadS.bracket-pair-colorizer", 
-        "DavidAnson.vscode-markdownlint", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "ecmel.vscode-html-css", 
-        "eg2.vscode-npm-script", 
-        "esbenp.prettier-vscode", 
-        "formulahendry.auto-close-tag", 
-        "formulahendry.auto-rename-tag", 
-        "GitHub.vscode-pull-request-github", 
-        "hollowtree.vue-snippets", 
-        "HookyQR.beautify", 
-        "leizongmin.node-module-intellisense", 
-        "mgmcdermott.vscode-language-babel", 
-        "michelemelluso.gitignore",
-        "ms-azuretools.vscode-azureappservice", 
-        "ms-vscode.azure-account", 
-        "msjsdiag.debugger-for-chrome", 
-        "octref.vetur", 
-        "oderwat.indent-rainbow", 
-        "pflannery.vscode-versionlens",
-        "sdras.night-owl", 
-        "sdras.vue-vscode-extensionpack", 
-        "sdras.vue-vscode-snippets", 
-        "shd101wyy.markdown-preview-enhanced", 
-        "sidthesloth.html5-boilerplate", 
-        "spywhere.guides", 
-        "streetsidesoftware.code-spell-checker", 
-        "tombonnike.vscode-status-bar-format-toggle", 
-        "VisualStudioExptTeam.vscodeintellicode", 
-        "xabikos.JavaScriptSnippets", 
-        "yzhang.markdown-all-in-one"
-    ]
+  "name": "codestudio",
+  "displayName": "CodeStudio",
+  "publisher": "shawnsandy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-sandy/codestudio.git"
+  },
+  "scripts": {
+    "np:major": "np major --yolo=true --no-publish",
+    "np:minor": "np minor --yolo=true --no-publish",
+    "np:patch": "np patch --yolo=true --no-publish"
+  },
+  "keywords": [
+    "VSCODE",
+    "Extension pack"
+  ],
+  "author": "shawnsandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawn-sandy/codestudio/issues"
+  },
+  "homepage": "https://github.com/shawn-sandy/codestudio#readme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "abusaidm.html-snippets",
+    "alefragnani.Bookmarks",
+    "auchenberg.vscode-browser-preview",
+    "christian-kohler.npm-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "GitHub.vscode-pull-request-github",
+    "hollowtree.vue-snippets",
+    "HookyQR.beautify",
+    "leizongmin.node-module-intellisense",
+    "mgmcdermott.vscode-language-babel",
+    "michelemelluso.gitignore",
+    "ms-azuretools.vscode-azureappservice",
+    "ms-vscode.azure-account",
+    "msjsdiag.debugger-for-chrome",
+    "octref.vetur",
+    "oderwat.indent-rainbow",
+    "pflannery.vscode-versionlens",
+    "sdras.night-owl",
+    "sdras.vue-vscode-extensionpack",
+    "sdras.vue-vscode-snippets",
+    "shd101wyy.markdown-preview-enhanced",
+    "sidthesloth.html5-boilerplate",
+    "spywhere.guides",
+    "streetsidesoftware.code-spell-checker",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "xabikos.JavaScriptSnippets",
+    "yzhang.markdown-all-in-one"
+  ]
 }
