@@ -4,7 +4,7 @@
   "publisher": "shawnsandy",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shawn-sandy/codestudio.git"
+    "url": "https://github.com/shawn-sandy/codestudio"
   },
   "scripts": {
     "np:major": "np major --yolo=true --no-publish",
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/shawn-sandy/codestudio/issues"
   },
-  "homepage": "https://github.com/shawn-sandy/codestudio#readme",
+  "homepage": "https://github.com/shawn-sandy/codestudio",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.36.0"
