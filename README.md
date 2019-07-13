@@ -187,6 +187,8 @@ https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
 Description: Code Time is an open source plugin that provides programming metrics right in Visual Studio Code.
 https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode
 
+---
+
 ### Contributing
 
 If you would like to contribute to this extension
@@ -198,7 +200,7 @@ If you would like to contribute to this extension
 
 **Issues**
 
-I you find any errors, bugs, typos, recommend an extension or anything else, please open and issue here https://github.com/shawn-sandy/codestudio/issues
+I you find any errors, bugs, typos, would like to recommend an extension, etc. Please open and issue here https://github.com/shawn-sandy/codestudio/issues
 
 ### License
 
