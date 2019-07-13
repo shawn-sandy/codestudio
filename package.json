@@ -10,13 +10,13 @@
     "color": "#1E1E1E",
     "theme": "dark"
   },
-  "icon": "codestudio.png",
+  "icon": "logo.png",
   "scripts": {
     "np:major": "np major --yolo=true --no-publish",
     "np:minor": "np minor --yolo=true --no-publish",
     "np:patch": "np patch --yolo=true --no-publish",
     "build": "vsce package",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    "changelog": "conventional-changelog -p eslint -i CHANGELOG.md -s"
   },
   "keywords": [
     "VSCODE",
