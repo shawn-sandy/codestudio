@@ -1,6 +1,6 @@
 # CODESTUDIO
 
-**Favorite VSCODE extension for UI/UX development** I have been able to comfortably run these on a `surfacebook pro i5 8gb of ram 255gb hd`, however I would recommend that you go with something more powerful.
+**Favorite VSCODE extension for UI/UX development** (frontend). I have been able to comfortably run these on a `surfacebook pro i5 8gb of ram 255gb hd`, lets say I like living on the edge. I would recommend that you go with something more powerful.
 
 ## Extensions Included
 
@@ -182,5 +182,29 @@ Description: A VS Code theme for the night owls out there. Now introducing Light
 https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
 
 ---
+
+### Contributing
+
+If you would like to contribute to this extension
+
+- Clone the repo `git clone https://github.com/shawn-sandy/codestudio`
+- Add an extension to the `package.json` fix a bug/typo etc
+- Submit a Pull request
+- I will approve or regect
+
+**Issues**
+
+I you find any errors, bugs, typos, recommend an extension or anything else, please open and issue here https://github.com/shawn-sandy/codestudio/issues
+
+### License
+
+The MIT License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 **Enjoy!**

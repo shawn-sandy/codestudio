@@ -6,6 +6,10 @@
     "type": "git",
     "url": "https://github.com/shawn-sandy/codestudio"
   },
+  "galleryBanner": {
+    "color": "#47B784",
+    "theme": "dark"
+  },
   "scripts": {
     "np:major": "np major --yolo=true --no-publish",
     "np:minor": "np minor --yolo=true --no-publish",
