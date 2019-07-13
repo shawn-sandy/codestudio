@@ -1,8 +1,8 @@
 # CODESTUDIO
 
-## Favorite VSCODE extension for UI/UX development
+**Favorite VSCODE extension for UI/UX development** I have been able to comfortably run these on a `surfacebook pro i5 8gb of ram 255gb hd`, however I would recommend that you go with something more powerful.
 
-#### Extensions Included
+## Extensions Included
 
 **GitLens — Git supercharged**
 Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
@@ -162,6 +162,18 @@ VSCode syntax highlighting for today's JavaScript, ported from gandm's language-
 Id: leizongmin.node-module-intellisense
 Autocompletes Node.js modules in import statements
  https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense
+
+---
+
+**Vue VSCode Snippets**
+Description: Snippets that will supercharge your Vue workflow
+https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
+
+---
+
+**Night Owl**
+Description: A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
 
 ---
 
