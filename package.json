@@ -16,7 +16,7 @@
     "np:minor": "np minor --yolo=true --no-publish",
     "np:patch": "np patch --yolo=true --no-publish",
     "build": "vsce package",
-    "changelog": "conventional-changelog -p eslint -i CHANGELOG.md -s"
+    "changelog": "auto-changelog"
   },
   "keywords": [
     "VSCODE",
