@@ -1,6 +1,6 @@
 # CODESTUDIO
 
-**Favorite VSCODE extension for UI/UX development** (frontend). I have been able to comfortably run these on a `surfacebook pro i5 8gb of ram 255gb hd`, lets say I like living on the edge. I would recommend that you go with something more powerful.
+**Favorite VSCODE extension for UI/UX development** (frontend). I have been able to comfortably run these on a `surfacebook pro i5 8gb of ram 256gb hd`, lets say I like living on the edge. I would recommend that you go with something more powerful.
 
 ## Extensions Included
 
