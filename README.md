@@ -184,24 +184,28 @@ https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
 ---
 
 **Code Time**
+
 Description: Code Time is an open source plugin that provides programming metrics right in Visual Studio Code.
 https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode
 
 ---
 
 **Color Highlight**
+
 Description: Highlight web colors in your editor
 https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 
 ---
 
 **Sort lines**
+
 Description: Sorts lines of text
 https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines
 
 ---
 
 **Highlight Matching Tag**
+
 Description: Highlights matching closing or opening tag
  https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
 
