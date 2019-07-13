@@ -16,7 +16,8 @@
     "np:minor": "np minor --yolo=true --no-publish",
     "np:patch": "np patch --yolo=true --no-publish",
     "build": "vsce package",
-    "changelog": "auto-changelog"
+    "changelog": "auto-changelog",
+    "history": "auto-changelog --output HISTORY.md"
   },
   "keywords": [
     "VSCODE",
@@ -59,6 +60,7 @@
     "ms-azuretools.vscode-azureappservice",
     "ms-vscode.azure-account",
     "msjsdiag.debugger-for-chrome",
+    "naumovs.color-highlight",
     "octref.vetur",
     "oderwat.indent-rainbow",
     "pflannery.vscode-versionlens",

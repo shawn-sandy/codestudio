@@ -189,6 +189,18 @@ https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode
 
 ---
 
+**Color Highlight**
+Description: Highlight web colors in your editor
+https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+
+---
+
+**Sort lines**
+Description: Sorts lines of text
+https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines
+
+---
+
 ### Contributing
 
 If you would like to contribute to this extension
