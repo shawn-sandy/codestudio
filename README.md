@@ -201,6 +201,12 @@ https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines
 
 ---
 
+**Highlight Matching Tag**
+Description: Highlights matching closing or opening tag
+ https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
+
+---
+
 ### Contributing
 
 If you would like to contribute to this extension
