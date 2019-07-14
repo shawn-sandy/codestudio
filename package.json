@@ -22,7 +22,17 @@
   },
   "keywords": [
     "VSCODE",
-    "Extension pack"
+    "Extension pack",
+    "GitLens",
+    "Auto close tags",
+    "Auto rename tags",
+    "Vetur",
+    "Indent Rainbow",
+    "Markdown preview enhanced",
+    "One dark pro",
+    "Git ignore",
+    "CodeTime",
+    "Bracket Pair Colorizer"
   ],
   "author": "shawnsandy",
   "license": "MIT",
