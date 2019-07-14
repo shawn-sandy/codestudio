@@ -1,6 +1,66 @@
 # CODESTUDIO
 
-**Favorite VSCODE extension for UI/UX development** (frontend). I have been able to comfortably run these on a `surfacebook pro i5 8gb of ram 256gb hd`, lets say I like living on the edge. I would recommend that you go with something more powerful.
+**A VSCODE extension-pack for UI/UX Frontend development**. I have been able to comfortably run (39+) extensions on a `surfacebook pro i5 8gb of ram 256gb hd`, lets say I like pushing it. If you are multitasking or run a lot of memory hungry apps (Chrome...), I would recommend that you go with something a bit more powerful.
+
+### Install/Usage
+
+- **VSCode market place** https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio
+- Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
+
+**Tip**
+
+You can optimize VSC performance by tweaking some of VSC settings, here's an example one of my custom project settings `./vscode/settings.json`.
+
+``` json
+{
+  "files.associations": {
+    "*.tag": "html",
+    "*.cshtml": "html",
+    "*.html": "html",
+    "*.njk": "html",
+    "*.mustache": "html",
+    "*.html.md": "html"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/.vscode": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/node_modules": true,
+    "node_modules": true,
+    "venv": true,
+    "*.sublime-*": true,
+    "env*": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/env": true,
+    "**/venv": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/env/**": true,
+    "**/venv/**": true,
+    "env-*": true
+  },
+  "files.autoSave": "onFocusChange",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.cursorBlinking": "phase",
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "editor.formatOnSave": true,
+  "breadcrumbs.enabled": true,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 200,
+  "editor.minimap.showSlider": "always"
+}
+
+
+```
 
 ## Extensions Included
 
@@ -18,7 +78,6 @@ ___
 
 **Debugger for Chrome**
 
-Id: msjsdiag.debugger-for-chrome
 Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
  https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
  ___
@@ -218,11 +277,11 @@ If you would like to contribute to this extension
 - Clone the repo `git clone https://github.com/shawn-sandy/codestudio`
 - Add an extension to the `package.json` fix a bug/typo etc
 - Submit a Pull request
-- I will approve or regect
+- I will approve or reject accordingly
 
-**Issues**
+###Issues
 
-I you find any errors, bugs, typos, would like to recommend an extension, etc. Please open and issue here https://github.com/shawn-sandy/codestudio/issues
+I you find any errors, bugs, typos, would like to recommend an extension, etc. Please open an issue here https://github.com/shawn-sandy/codestudio/issues
 
 ### License
 
