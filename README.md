@@ -1,15 +1,15 @@
 # CODESTUDIO
 
-**A VSCODE extension-pack for UI/UX Frontend development**. I have been able to comfortably run (39+) extensions on a `surfacebook pro i5 8gb of ram 256gb hd`, lets say I like pushing it. If you are multitasking or run a lot of memory hungry apps (Chrome...), I would recommend that you go with something a bit more powerful.
+**A VSCODE extension-pack for UI/UX Frontend development**. I have been able to comfortably run (39+) extensions on a `surfacebook pro i5 8gb of ram 256gb hd` , lets say I like pushing it. If you are multitasking or run a lot of memory hungry apps (Chrome...), I would recommend that you go with something a bit more powerful.
 
 ### Install/Usage
 
-- **VSCode market place** https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio
-- Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
+* **VSCode market place** https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio
+* Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
 
 **Tip**
 
-You can optimize VSC performance by tweaking some of VSC settings, here's an example one of my custom project settings `./vscode/settings.json`.
+You can optimize VSC performance by tweaking some of VSC settings, here's an example one of my custom project settings `./vscode/settings.json` .
 
 ``` json
 {
@@ -58,7 +58,6 @@ You can optimize VSC performance by tweaking some of VSC settings, here's an exa
   "editor.minimap.maxColumn": 200,
   "editor.minimap.showSlider": "always"
 }
-
 
 ```
 
@@ -191,7 +190,6 @@ Allow peeking to css ID and class strings as definitions from html files to resp
 
 ---
 
-
 **Vue VSCode Snippets**
 
 Snippets that will supercharge your Vue workflow
@@ -203,7 +201,6 @@ Snippets that will supercharge your Vue workflow
 
 Pull Request Provider for GitHub
  https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
-
 
 ---
 
@@ -270,14 +267,21 @@ Description: Highlights matching closing or opening tag
 
 ---
 
+**markdown-formatter**
+
+Description:  A Markdown Plugin for code artist
+https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter
+
+---
+
 ### Contributing
 
 If you would like to contribute to this extension
 
-- Clone the repo `git clone https://github.com/shawn-sandy/codestudio`
-- Add an extension to the `package.json` fix a bug/typo etc
-- Submit a Pull request
-- I will approve or reject accordingly
+* Clone the repo `git clone https://github.com/shawn-sandy/codestudio` 
+* Add an extension to the `package.json` fix a bug/typo etc
+* Submit a Pull request
+* I will approve or reject accordingly
 
 ###Issues
 
@@ -293,5 +297,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
 **Enjoy!**
+
