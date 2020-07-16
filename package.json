@@ -52,7 +52,6 @@
     "alefragnani.Bookmarks",
     "auchenberg.vscode-browser-preview",
     "christian-kohler.npm-intellisense",
-    "softwaredotcom.swdc-vscode",
     "CoenraadS.bracket-pair-colorizer",
     "DavidAnson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
@@ -60,8 +59,6 @@
     "ecmel.vscode-html-css",
     "eg2.vscode-npm-script",
     "esbenp.prettier-vscode",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-rename-tag",
     "GitHub.vscode-pull-request-github",
     "hollowtree.vue-snippets",
     "HookyQR.beautify",
@@ -87,7 +84,6 @@
     "VisualStudioExptTeam.vscodeintellicode",
     "vincaslt.highlight-matching-tag",
     "xabikos.JavaScriptSnippets",
-    "yzhang.markdown-all-in-one",
-    "zhuangtongfa.Material-theme"
+    "yzhang.markdown-all-in-one"
   ]
 }
