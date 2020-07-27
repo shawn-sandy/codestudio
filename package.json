@@ -53,6 +53,7 @@
     "auchenberg.vscode-browser-preview",
     "christian-kohler.npm-intellisense",
     "CoenraadS.bracket-pair-colorizer",
+    "chenxsan.vscode-standardjs",
     "DavidAnson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
