@@ -263,6 +263,16 @@ https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter
 
 ---
 
+### Development
+
+- Clone this repo
+- Install Microsoft VSCE `npm install -g vsce` [exension manager](https://www.npmjs.com/package/vsce)
+- Install Auto Changelog `npm install -g auto-changelog` [Auto Changelog](https://www.npmjs.com/package/auto-changelog)
+- Install np `npm install --global np` [np](https://www.npmjs.com/package/np)
+- Add/Remove extensions in the `extensionPack` section of the package.json
+- Build extension `npm run build`
+- `npm run changelog` to generate changelogs
+
 ### Contributing
 
 If you would like to contribute to this extension
