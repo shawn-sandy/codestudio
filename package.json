@@ -91,5 +91,8 @@
   ],
   "dependencies": {
     "vsce": "^1.78.0"
+  },
+  "devDependencies": {
+    "np": "^6.4.0"
   }
 }
