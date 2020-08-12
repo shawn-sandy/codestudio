@@ -78,17 +78,18 @@
     "octref.vetur",
     "oderwat.indent-rainbow",
     "pflannery.vscode-versionlens",
-    "sdras.night-owl",
     "sdras.vue-vscode-extensionpack",
     "sdras.vue-vscode-snippets",
     "shd101wyy.markdown-preview-enhanced",
     "sidthesloth.html5-boilerplate",
-    "spywhere.guides",
     "streetsidesoftware.code-spell-checker",
     "tombonnike.vscode-status-bar-format-toggle",
     "VisualStudioExptTeam.vscodeintellicode",
     "vincaslt.highlight-matching-tag",
     "xabikos.JavaScriptSnippets",
     "yzhang.markdown-all-in-one"
-  ]
+  ],
+  "dependencies": {
+    "vsce": "^1.78.0"
+  }
 }

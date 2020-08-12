@@ -280,9 +280,9 @@ If you would like to contribute to this extension
 - Clone the repo `git clone https://github.com/shawn-sandy/codestudio`
 - Add an extension to the `package.json` fix a bug/typo etc
 - Submit a Pull request
-- I will approve or reject accordingly
+- Approval subject to review
 
-###Issues
+### Issues
 
 I you find any errors, bugs, typos, would like to recommend an extension, etc. Please open an issue here https://github.com/shawn-sandy/codestudio/issues
 
