@@ -94,7 +94,6 @@
   },
   "devDependencies": {
     "auto-changelog": "^2.2.0",
-    "changelog": "^1.4.2",
     "np": "^6.4.0"
   }
 }
