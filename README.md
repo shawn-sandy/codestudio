@@ -6,6 +6,7 @@
 
 - **VSCode market place** https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio
 - Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
+- The [VSCode ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension requires the latest version of, If you haven't installed ESLint either locally or globally do so by running `npm install eslint` in the workspace folder for a local install or `npm install -g eslint` for a global install.
 
 **Tip**
 
