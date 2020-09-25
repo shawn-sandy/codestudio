@@ -90,7 +90,7 @@
     "yzhang.markdown-all-in-one"
   ],
   "dependencies": {
-    "vsce": "^1.78.0"
+    "vsce": "^1.80.0"
   },
   "devDependencies": {
     "auto-changelog": "^2.2.0",
