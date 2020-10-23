@@ -8,6 +8,10 @@
 - Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
 - The [VSCode ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension requires the latest version of, If you haven't installed ESLint either locally or globally do so by running `npm install eslint` in the workspace folder for a local install or `npm install -g eslint` for a global install.
 
+### Changelog
+
+Latest change and updates read the [Changelog](./CHANGELOG.md)
+
 **Tip**
 
 You can optimize VSC performance by tweaking some of VSC settings, here's an example one of my custom project settings `./vscode/settings.json` .
