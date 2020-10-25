@@ -22,6 +22,7 @@
   },
   "keywords": [
     "VSCODE",
+    "Adobe XD",
     "Extension pack",
     "GitLens",
     "Auto close tags",
@@ -84,6 +85,7 @@
     "shd101wyy.markdown-preview-enhanced",
     "sidthesloth.html5-boilerplate",
     "streetsidesoftware.code-spell-checker",
+    "svelte.svelte-vscode",
     "tombonnike.vscode-status-bar-format-toggle",
     "VisualStudioExptTeam.vscodeintellicode",
     "vincaslt.highlight-matching-tag",
