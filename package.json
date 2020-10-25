@@ -96,7 +96,7 @@
     "vsce": "^1.78.0"
   },
   "devDependencies": {
-    "auto-changelog": "^2.2.0",
+    "auto-changelog": "^2.2.1",
     "np": "^6.4.0"
   }
 }
