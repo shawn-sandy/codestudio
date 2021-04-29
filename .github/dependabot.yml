@@ -1,0 +1,23 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: vsce
+    versions:
+    - 1.84.0
+    - 1.85.0
+    - 1.85.1
+    - 1.86.0
+    - 1.87.0
+  - dependency-name: np
+    versions:
+    - 7.2.0
+    - 7.3.0
+    - 7.4.0
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
