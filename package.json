@@ -40,11 +40,13 @@
     "url": "https://github.com/shawn-sandy/codestudio/issues"
   },
   "homepage": "https://github.com/shawn-sandy/codestudio",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "engines": {
     "vscode": "^1.36.0"
   },
-  "categories": ["Extension Packs"],
+  "categories": [
+    "Extension Packs"
+  ],
   "extensionPack": [
     "abusaidm.html-snippets",
     "capaj.vscode-standardjs-snippets",
