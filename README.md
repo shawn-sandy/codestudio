@@ -1,4 +1,4 @@
-# VS.CODESTUDIO
+# VS. CODESTUDIO
 
 I created this extension two reasons, the first to teach myself how to, the second to scratch an itch that I had to figure out the quickest to get VSCODE from install to work ready, I managed to do both, YAY me :)!
 
@@ -6,9 +6,9 @@ I created this extension two reasons, the first to teach myself how to, the seco
 
 ### Install/Usage
 
-- **VSCode market place** https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio
-- Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
-- The [VSCode ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension requires the latest version of, If you haven't installed ESLint either locally or globally do so by running `npm install eslint` in the workspace folder for a local install or `npm install -g eslint` for a global install.
+* **VSCode market place** https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio
+* Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
+* The [VSCode ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension requires the latest version of, If you haven't installed ESLint either locally or globally do so by running `npm install eslint` in the workspace folder for a local install or `npm install -g eslint` for a global install.
 
 ### Changelog
 
@@ -18,7 +18,7 @@ Latest change and updates read the [Changelog](./CHANGELOG.md)
 
 You can optimize VSC performance by tweaking some of VSC settings, here's an example one of my custom project settings `./vscode/settings.json` .
 
-```json
+``` json
 {
   "files.associations": {
     "*.tag": "html",
@@ -71,17 +71,43 @@ You can optimize VSC performance by tweaking some of VSC settings, here's an exa
 
 ### Development
 
-- Clone this repo
-- Install Microsoft VSCE `npm install -g vsce` [extension manager](https://www.npmjs.com/package/vsce)
-- Install Auto Changelog `npm install -g auto-changelog` [Auto Changelog](https://www.npmjs.com/package/auto-changelog)
-- Install np `npm install --global np` [np](https://www.npmjs.com/package/np)
-- Add/Remove extensions in the `extensionPack` section of the package.json
-- Build extension `npm run build`
-- `npm run changelog` to generate
+* Clone this repo
+* Install Microsoft VSCE `npm install -g vsce` [extension manager](https://www.npmjs.com/package/vsce)
+* Install Auto Changelog `npm install -g auto-changelog` [Auto Changelog](https://www.npmjs.com/package/auto-changelog)
+* Install np `npm install --global np` [np](https://www.npmjs.com/package/np)
+* Add/Remove extensions in the `extensionPack` section of the package.json
+* Build extension `npm run build`
+* `npm run changelog` to generate
 
 ### Extensions suggestions
 
-```json
+#### Custom components
+
+``` json
+
+{
+  "recommendations": [
+    "shawnsandy.codestudio",
+    "dbaeumer.vscode-eslint",
+    "mkaufman.HTMLHint",
+    "mgmcdermott.vscode-language-babel",
+    "ecmel.vscode-html-css",
+    "humao.rest-client",
+    "mrmlnc.vscode-scss",
+    "dsznajder.es7-react-js-snippets",
+    "eseom.nunjucks-template",
+    "douglaszaltron.nunjucks-vscode-extensionpack",
+    "msjsdiag.debugger-for-chrome",
+    "eg2.vscode-npm-script",
+    "VisualStudioExptTeam.vscodeintellicode",
+  ]
+}
+
+```
+
+#### Vue components
+
+``` json
 {
   "recommendations": [
     "sdras.vue-vscode-extensionpack",
@@ -92,14 +118,15 @@ You can optimize VSC performance by tweaking some of VSC settings, here's an exa
 }
 
 ```
+
 ### Contributing
 
 If you would like to contribute to this extension
 
-- Clone the repo `git clone https://github.com/shawn-sandy/codestudio`
-- Add an extension to the `package.json` fix a bug/typo etc
-- Submit a Pull request
-- Approval subject to review
+* Clone the repo `git clone https://github.com/shawn-sandy/codestudio`
+* Add an extension to the `package.json` fix a bug/typo etc
+* Submit a Pull request
+* Approval subject to review
 
 ### Issues
 
