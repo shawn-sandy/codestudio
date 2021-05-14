@@ -6,7 +6,7 @@ I created this extension two reasons, the first to teach myself how to, the seco
 
 ### Install/Usage
 
-* **VSCode market place** https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio
+* **VSCode market place** <https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio>
 * Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
 * The [VSCode ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension requires the latest version of, If you haven't installed ESLint either locally or globally do so by running `npm install eslint` in the workspace folder for a local install or `npm install -g eslint` for a global install.
 
@@ -69,17 +69,13 @@ You can optimize VSC performance by tweaking some of VSC settings, here's an exa
 
 ---
 
-### Development
+### Recommending extensions in your project
 
-* Clone this repo
-* Install Microsoft VSCE `npm install -g vsce` [extension manager](https://www.npmjs.com/package/vsce)
-* Install Auto Changelog `npm install -g auto-changelog` [Auto Changelog](https://www.npmjs.com/package/auto-changelog)
-* Install np `npm install --global np` [np](https://www.npmjs.com/package/np)
-* Add/Remove extensions in the `extensionPack` section of the package.json
-* Build extension `npm run build`
-* `npm run changelog` to generate
+You recommend extensions to team members, users or contributors.
 
-### Extensions suggestions
+* Create and `extensions.json` file in `.vscode/` folder in you project
+* Copy and paste the code below into the file
+* Share the repo with others and they will be promoted to install your recommend extensions
 
 #### Custom components
 
@@ -87,19 +83,18 @@ You can optimize VSC performance by tweaking some of VSC settings, here's an exa
 
 {
   "recommendations": [
-    "shawnsandy.codestudio",
+     "shawnsandy.codestudio",
     "dbaeumer.vscode-eslint",
     "mkaufman.HTMLHint",
-    "mgmcdermott.vscode-language-babel",
-    "ecmel.vscode-html-css",
     "humao.rest-client",
-    "mrmlnc.vscode-scss",
     "dsznajder.es7-react-js-snippets",
     "eseom.nunjucks-template",
     "douglaszaltron.nunjucks-vscode-extensionpack",
     "msjsdiag.debugger-for-chrome",
-    "eg2.vscode-npm-script",
-    "VisualStudioExptTeam.vscodeintellicode",
+    "sdras.vue-vscode-extensionpack",
+    "octref.vetur",
+    "hollowtree.vue-snippets",
+    "sdras.vue-vscode-snippets"
   ]
 }
 
@@ -119,6 +114,16 @@ You can optimize VSC performance by tweaking some of VSC settings, here's an exa
 
 ```
 
+### Development
+
+* Clone this repo
+* Install Microsoft VSCE `npm install -g vsce` [extension manager](https://www.npmjs.com/package/vsce)
+* Install Auto Changelog `npm install -g auto-changelog` [Auto Changelog](https://www.npmjs.com/package/auto-changelog)
+* Install np `npm install --global np` [np](https://www.npmjs.com/package/np)
+* Add/Remove extensions in the `extensionPack` section of the package.json
+* Build extension `npm run build`
+* `npm run changelog` to generate
+
 ### Contributing
 
 If you would like to contribute to this extension
@@ -130,7 +135,7 @@ If you would like to contribute to this extension
 
 ### Issues
 
-I you find any errors, bugs, typos, would like to recommend an extension, etc. Please open an issue here https://github.com/shawn-sandy/codestudio/issues
+I you find any errors, bugs, typos, would like to recommend an extension, etc. Please open an issue here <https://github.com/shawn-sandy/codestudio/issues>
 
 ### License
 
