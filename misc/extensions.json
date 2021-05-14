@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "ms-azuretools.vscode-azureappservice",
-    "ms-vscode.azure-account",
-    "dsznajder.es7-react-js-snippets",
-    "alefragnani.bookmarks",
-    "svelte.svelte-vscode"
-  ]
-}
