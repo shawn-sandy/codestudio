@@ -86,6 +86,7 @@
   },
   "devDependencies": {
     "auto-changelog": "^2.2.1",
+    "commitizen": "^4.2.4",
     "np": "^6.4.0"
   }
 }
