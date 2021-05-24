@@ -11,6 +11,7 @@
     "sdras.vue-vscode-extensionpack",
     "octref.vetur",
     "hollowtree.vue-snippets",
-    "sdras.vue-vscode-snippets"
+    "sdras.vue-vscode-snippets",
+    "docsmsft.docs-markdown"
   ]
 }
