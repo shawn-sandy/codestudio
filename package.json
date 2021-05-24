@@ -87,6 +87,12 @@
   "devDependencies": {
     "auto-changelog": "^2.2.1",
     "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
     "np": "^6.4.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
