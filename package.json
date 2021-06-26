@@ -11,7 +11,7 @@
     "color": "#1E1E1E",
     "theme": "dark"
   },
-  "icon": "logo.png",
+  "icon": "code-studio-brand.png",
   "scripts": {
     "np:major": "np major --yolo=true --no-publish",
     "np:minor": "np minor --yolo=true --no-publish",
