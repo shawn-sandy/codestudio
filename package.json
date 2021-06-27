@@ -52,6 +52,7 @@
     "capaj.vscode-standardjs-snippets",
     "christian-kohler.npm-intellisense",
     "CoenraadS.bracket-pair-colorizer",
+    "vivaxy.vscode-conventional-commits",
     "DavidAnson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
