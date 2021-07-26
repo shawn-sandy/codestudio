@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "CodeStudio",
+  "steps": [
+    {
+      "file": "package.json",
+      "description": "# NPM Scripts\r\n\r\n## Run scripts fo app\r\n\r\n- Build and package for the extension store\r\n\r\n>> npm run build\r\n\r\n- Patch package version \r\n\r\n>> npm run np:patch\r\n\r\n- Minor package version \r\n\r\n>> npm run np:minor \r\n\r\n- Major package version\r\n\r\n>> npm run np:major\r\n\r\n- Update changelog/history\r\n\r\n>> npm run history",
+      "line": 1
+    }
+  ]
+}
