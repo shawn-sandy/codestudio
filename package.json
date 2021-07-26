@@ -87,7 +87,7 @@
     "vsce": "^1.95.0"
   },
   "devDependencies": {
-    "auto-changelog": "^2.2.1",
+    "auto-changelog": "^2.3.0",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "np": "^6.4.0"
