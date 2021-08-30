@@ -48,6 +48,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "alefragnani.bookmarks",
     "abusaidm.html-snippets",
     "capaj.vscode-standardjs-snippets",
     "christian-kohler.npm-intellisense",
@@ -64,10 +65,10 @@
     "mkaufman.HTMLHint",
     "GitHub.vscode-pull-request-github",
     "mrmlnc.vscode-scss",
-    "humao.rest-client",
     "HookyQR.beautify",
     "kenhowardpdx.vscode-gist",
     "leizongmin.node-module-intellisense",
+    "ritwickdey.liveserver",
     "mervin.markdown-formatter",
     "mgmcdermott.vscode-language-babel",
     "michelemelluso.gitignore",
