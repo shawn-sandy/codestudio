@@ -2,7 +2,7 @@
   "recommendations": [
     "shawnsandy.codestudio",
     "dbaeumer.vscode-eslint",
-    "mkaufman.HTMLHint",
+    "mkaufman.htmlhint",
     "humao.rest-client",
     "dsznajder.es7-react-js-snippets",
     "eseom.nunjucks-template",
@@ -11,6 +11,7 @@
     "octref.vetur",
     "hollowtree.vue-snippets",
     "sdras.vue-vscode-snippets",
-    "docsmsft.docs-markdown"
+    "docsmsft.docs-markdown",
+    "github.remotehub"
   ]
 }

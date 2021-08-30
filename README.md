@@ -1,5 +1,4 @@
 # VS. CODESTUDIO
-
 - [VS. CODESTUDIO](#vs-codestudio)
   - [Introduction](#introduction)
   - [Install/Usage](#installusage)
@@ -20,19 +19,18 @@ I created this extension for two reasons, the first to teach myself how to, the 
 
 ## Install/Usage
 
-- **VSCode market place** <https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio>
-- Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
-- The [VSCode ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension requires the latest version of, If you haven't installed ESLint either locally or globally do so by running `npm install eslint` in the workspace folder for a local install or `npm install -g eslint` for a global install.
+* **VSCode market place** <https://marketplace.visualstudio.com/items?itemName=shawnsandy.codestudio>
+* Or go to your extensions panel `View > Extensions` and type `codestudio` in search box to find the extension than click install.
+* The [VSCode ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension requires the latest version of, If you haven't installed ESLint either locally or globally do so by running `npm install eslint` in the workspace folder for a local install or `npm install -g eslint` for a global install.
 
 ## Recommending extensions in your project
 
 You can recommend extensions to team members, users, or contributors by adding the `extensions.json` to your project folder `./vscode` directory.
 
-- Create and `extensions.json` file in `.vscode/` folder in your project
-- Copy and paste the code below into the `extensions.json` file you created
-- Share the project/repo with others and they will be promoted to install your recommend extensions on first load.
+* Copy and paste the `.vscode/extensions.json` file  and paste it into your vscode project `.vscode` folder
+* Share the project/repo with others and they will be promoted to install your recommend extensions on first load.
 
-``` json
+```json
 
 {
   "recommendations": [
@@ -57,7 +55,7 @@ You can recommend extensions to team members, users, or contributors by adding t
 
 You can optimize VSC performance by tweaking some of VSC settings, here's an example one of my custom project settings `./vscode/settings.json` .
 
-``` json
+```json
 {
   "files.associations": {
     "*.tag": "html",
@@ -110,7 +108,7 @@ You can optimize VSC performance by tweaking some of VSC settings, here's an exa
 
 #### VUE. JS recommendations
 
-``` json
+```json
 {
   "recommendations": [
     "sdras.vue-vscode-extensionpack",
@@ -124,22 +122,22 @@ You can optimize VSC performance by tweaking some of VSC settings, here's an exa
 
 ## Development
 
-- Clone this repo
-- Install Microsoft VSCE `npm install -g vsce` [extension manager](https://www.npmjs.com/package/vsce)
-- Install Auto Changelog `npm install -g auto-changelog` [Auto Changelog](https://www.npmjs.com/package/auto-changelog)
-- Install np `npm install --global np` [np](https://www.npmjs.com/package/np)
-- Add/Remove extensions in the `extensionPack` section of the package.json
-- Build extension `npm run build`
-- `npm run changelog` to generate
+* Clone this repo
+* Install Microsoft VSCE `npm install -g vsce` [extension manager](https://www.npmjs.com/package/vsce)
+* Install Auto Changelog `npm install -g auto-changelog` [Auto Changelog](https://www.npmjs.com/package/auto-changelog)
+* Install np `npm install --global np` [np](https://www.npmjs.com/package/np)
+* Add/Remove extensions in the `extensionPack` section of the package.json
+* Build extension `npm run build`
+* `npm run changelog` to generate
 
 ## Contributing
 
 If you would like to contribute to this extension
 
-- Clone the repo `git clone https://github.com/shawn-sandy/codestudio`
-- Add an extension to the `package.json` fix a bug/typo etc
-- Submit a Pull request
-- Approval subject to review
+* Clone the repo `git clone https://github.com/shawn-sandy/codestudio`
+* Add an extension to the `package.json` fix a bug/typo etc
+* Submit a Pull request
+* Approval subject to review
 
 ## Changelog
 
