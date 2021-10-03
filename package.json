@@ -84,13 +84,13 @@
     "yzhang.markdown-all-in-one"
   ],
   "dependencies": {
-    "vsce": "^1.96.1"
+    "vsce": "^1.100.1"
   },
   "devDependencies": {
     "auto-changelog": "^2.3.0",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
-    "np": "^6.4.0"
+    "np": "^7.5.0"
   },
   "config": {
     "commitizen": {
