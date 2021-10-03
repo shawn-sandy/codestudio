@@ -31,8 +31,7 @@
     "Indent Rainbow",
     "Markdown preview enhanced",
     "One dark pro",
-    "Git ignore",
-    "Bracket Pair Colorizer"
+    "Git ignore"
   ],
   "author": "shawnsandy",
   "license": "MIT",
@@ -52,7 +51,6 @@
     "abusaidm.html-snippets",
     "capaj.vscode-standardjs-snippets",
     "christian-kohler.npm-intellisense",
-    "CoenraadS.bracket-pair-colorizer",
     "vsls-contrib.codetour",
     "vivaxy.vscode-conventional-commits",
     "DavidAnson.vscode-markdownlint",
