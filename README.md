@@ -31,21 +31,13 @@ You can recommend extensions to team members, users, or contributors by adding t
 * Share the project/repo with others and they will be promoted to install your recommend extensions on first load.
 
 ```json
-
 {
   "recommendations": [
     "shawnsandy.codestudio",
     "dbaeumer.vscode-eslint",
-    "mkaufman.HTMLHint",
     "humao.rest-client",
     "dsznajder.es7-react-js-snippets",
-    "eseom.nunjucks-template",
-    "douglaszaltron.nunjucks-vscode-extensionpack",
-    "msjsdiag.debugger-for-chrome",
     "sdras.vue-vscode-extensionpack",
-    "octref.vetur",
-    "hollowtree.vue-snippets",
-    "sdras.vue-vscode-snippets"
   ]
 }
 
