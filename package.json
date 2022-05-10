@@ -22,15 +22,9 @@
   },
   "keywords": [
     "VSCODE",
-    "Adobe XD",
     "Extension pack",
     "GitLens",
-    "Auto close tags",
-    "Auto rename tags",
-    "Vetur",
-    "Indent Rainbow",
     "Markdown preview enhanced",
-    "One dark pro",
     "Git ignore"
   ],
   "author": "shawnsandy",
@@ -84,13 +78,13 @@
     "zenclabs.previewjs"
   ],
   "dependencies": {
-    "vsce": "^2.5.3"
+    "vsce": "^2.7.0"
   },
   "devDependencies": {
-    "auto-changelog": "^2.3.0",
+    "auto-changelog": "^2.4.0",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
-    "np": "^7.6.0"
+    "np": "^7.6.1"
   },
   "config": {
     "commitizen": {
