@@ -43,6 +43,7 @@
   "extensionPack": [
     "abusaidm.html-snippets",
     "alefragnani.bookmarks",
+    "andys8.jest-snippets",
     "capaj.vscode-standardjs-snippets",
     "christian-kohler.npm-intellisense",
     "dbaeumer.vscode-eslint",
@@ -53,6 +54,7 @@
     "esbenp.prettier-vscode",
     "firsttris.vscode-jest-runner",
     "GitHub.vscode-pull-request-github",
+    "infeng.vscode-react-typescript",
     "jevakallio.vscode-live-frame",
     "kenhowardpdx.vscode-gist",
     "leizongmin.node-module-intellisense",
@@ -63,6 +65,7 @@
     "ms-edgedevtools.vscode-edge-devtools",
     "ms-vscode.live-server",
     "nrwl.angular-console",
+    "Orta.vscode-jest",
     "pflannery.vscode-versionlens",
     "ritwickdey.liveserver",
     "shd101wyy.markdown-preview-enhanced",
@@ -74,6 +77,7 @@
     "VisualStudioExptTeam.vscodeintellicode",
     "vivaxy.vscode-conventional-commits",
     "webhint.vscode-webhint",
+    "xabikos.ReactSnippets",
     "yatki.vscode-surround",
     "yzhang.markdown-all-in-one",
     "zenclabs.previewjs"
