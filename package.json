@@ -83,7 +83,7 @@
     "zenclabs.previewjs"
   ],
   "dependencies": {
-    "vsce": "^2.7.0"
+    "vsce": "^2.14.0"
   },
   "devDependencies": {
     "auto-changelog": "^2.4.0",
