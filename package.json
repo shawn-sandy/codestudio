@@ -89,7 +89,7 @@
     "auto-changelog": "^2.4.0",
     "commitizen": "^4.2.5",
     "cz-conventional-changelog": "^3.3.0",
-    "np": "^7.6.2"
+    "np": "^7.6.3"
   },
   "config": {
     "commitizen": {
