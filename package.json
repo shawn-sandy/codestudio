@@ -33,7 +33,7 @@
     "url": "https://github.com/shawn-sandy/codestudio/issues"
   },
   "homepage": "https://github.com/shawn-sandy/codestudio",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "engines": {
     "vscode": "^1.36.0"
   },
