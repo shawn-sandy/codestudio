@@ -61,8 +61,7 @@
     "mervin.markdown-formatter",
     "mgmcdermott.vscode-language-babel",
     "michelemelluso.gitignore",
-    "mkaufman.HTMLHint",
-    "ms-edgedevtools.vscode-edge-devtools",
+    "HTMLHint.vscode-htmlhint",
     "ms-vscode.live-server",
     "nrwl.angular-console",
     "Orta.vscode-jest",
@@ -80,16 +79,20 @@
     "xabikos.ReactSnippets",
     "yatki.vscode-surround",
     "yzhang.markdown-all-in-one",
+    "dzhavat.css-flexbox-cheatsheet",
+    "Wattenberger.footsteps",
+    "eliostruyf.vscode-front-matter",
+    "sourcegraph.cody-ai",
     "zenclabs.previewjs"
   ],
   "dependencies": {
-    "vsce": "^2.7.0"
+    "vsce": "^1.97.0"
   },
   "devDependencies": {
     "auto-changelog": "^2.4.0",
     "commitizen": "^4.2.5",
     "cz-conventional-changelog": "^3.3.0",
-    "np": "^7.6.2"
+    "np": "^8.0.4"
   },
   "config": {
     "commitizen": {
