@@ -1,3 +1,7 @@
+## v0.16.3
+
+[compare changes](https://github.com/shawn-sandy/codestudio/compare/v0.16.2...v0.16.3)
+
 ### Changelog
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
